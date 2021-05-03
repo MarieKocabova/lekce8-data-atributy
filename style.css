@@ -25,6 +25,7 @@ h1 {
 	border-color: tomato;
 }
 
-#odpoved {
+#odpoved, 
+#vysledek {
 	text-align: center;
 }
